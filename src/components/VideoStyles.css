@@ -23,12 +23,13 @@
 }
 
 .hero .content h1 {
-  font-size: 4rem;
+  margin-top: 12rem;
+  font-size: 5rem;
   color: #fff;
 }
 
 .hero p {
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   font-weight: 200;
   text-transform: uppercase;
   margin-bottom: 1.6rem;
@@ -41,13 +42,17 @@
 
 @media screen and (max-width:640px) {
   .hero .content h1 {
-      font-size: 1rem;
-      margin-bottom: 0.3rem;
+      margin-top: 10rem;
+      font-size: 2.6rem;
+      margin-bottom: 0.6rem;
   }
 
 
   .content p {
       font-size: 1rem;
-      margin-bottom: 1.3rem;
+      margin-bottom: 1.8rem;
+  }
+  .hero .btn {
+    font-size: 1.5rem;
   }
 }
