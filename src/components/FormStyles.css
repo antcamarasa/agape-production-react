@@ -27,3 +27,8 @@ form input, textarea {
   border-color: rgba(255,255,255,.1);
   color: #f4f4f4;
 }
+
+.form-title {
+  font-size: 2.4rem;
+  margin-bottom: 1.2rem;
+}

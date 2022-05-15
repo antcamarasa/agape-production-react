@@ -6,6 +6,7 @@ const Form = () => {
     <div>
       <div className='form'>
             <form className='form'>
+            <h1 className='form-title'> Nous contacter :</h1>
                 <label>Nom</label>
                 <input type='text'></input>
                 <label>Email</label>
